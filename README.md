@@ -14,3 +14,8 @@ A simple Android Chat Application using Kotlin
 <br>
 <img width="213" alt="Screenshot 2024-01-09 at 10 01 01 AM" src="https://github.com/manasarao30/ChatApp/assets/54011799/5ee47292-8049-4b94-bcb7-d328312170fe">
 
+<h2>Firebase Authentication</h2>
+<img width="971" alt="Screenshot 2024-01-09 at 10 08 30 AM" src="https://github.com/manasarao30/ChatApp/assets/54011799/4d647827-02c6-4641-a6e7-46e5d224e410">
+<br>
+<h2>Realtime Database</h2>
+<img width="691" alt="Screenshot 2024-01-09 at 10 09 28 AM" src="https://github.com/manasarao30/ChatApp/assets/54011799/21d87b5d-7736-4158-aea1-6194109b6f27">
